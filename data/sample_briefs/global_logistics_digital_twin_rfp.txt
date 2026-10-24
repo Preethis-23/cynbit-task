@@ -1,0 +1,22 @@
+Client: TransFleet Logistics International
+Project: Global Fleet Telematics & AI Dispatch Optimization Platform
+
+Overview:
+TransFleet Logistics operates 750 Class-8 semi-trucks across 32 distribution hubs. Need cloud-native IoT telematics and AI route dispatch platform to reduce fuel burn by 14% and predict delivery ETAs with 96% accuracy.
+
+Functional Modules:
+- FR-01: Real-time MQTT/Kafka telemetry ingestion for 750 trucks (15,000 events/sec).
+- FR-02: Machine learning dynamic ETA model (<15min accuracy window).
+- FR-03: Dynamic route recalculation engine with toll/fuel optimization.
+- FR-04: Offline-first mobile app (iOS/Android) for commercial drivers with HOS logs.
+- FR-05: Web operations dispatch console with live geospatial map and geofence alerts.
+- FR-06: Predictive maintenance diagnostics for engine and brake health.
+
+Integrations:
+- Geotab ELD telematics hardware, SAP ERP billing, Google Maps Fleet API, AWS IoT Core.
+
+Non-Functional & Compliance:
+- SOC2 Type II, FMCSA ELD compliance, 99.99% availability, <120ms p99 ingest latency.
+
+Commercial Constraints:
+- Target budget: $520,000 - $680,000. Target timeline: 24 weeks.

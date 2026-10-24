@@ -1,0 +1,21 @@
+From: david.miller@quickventures.io
+Subject: Quick RFP: New Uber-for-Services On-Demand Platform
+To: solutions@cynbit.com
+
+Hi Cynbit team,
+
+We want to build a marketplace platform like Uber or TaskRabbit where local service professionals can find customers in our metro area.
+
+Key things we need:
+- User login and profile creation
+- Bookings and schedule management
+- In-app payments
+- Mobile app for both workers and clients
+- Some AI matching or smart dispatching to assign tasks quickly
+- An admin dashboard to see what's happening
+
+We need to launch this as soon as possible, ideally in 6 weeks, because of an investor milestone. What would this cost and how quickly can you start?
+
+Best regards,
+David Miller
+Founder, QuickVentures

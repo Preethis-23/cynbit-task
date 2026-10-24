@@ -1,0 +1,25 @@
+PROJECT BRIEF: CareConnect Telemedicine & Patient Portal
+
+Client Overview:
+CareConnect Health Partners requires a secure, HIPAA-compliant patient consultation and telemedicine platform to connect outpatients with licensed medical specialists.
+
+Core Requirements:
+- High-definition WebRTC video and audio telemedicine consultations with waiting room capability.
+- Patient onboarding, medical history questionnaires, and insurance card upload/scanning.
+- Doctor scheduling engine with appointment booking, automated calendar sync, and cancellation policies.
+- Secure in-app messaging between doctors and patients with attachment support for lab results.
+- Integration with Epic/Cerner EHR systems via FHIR / HL7 APIs.
+- Integrated e-prescriptions routed to national pharmacy networks (Surescripts).
+- Payment processing for co-pays and private telehealth consultations.
+
+Compliance & Security:
+- Strict HIPAA and HITECH compliance, complete audit logging of every patient data access event.
+- Business Associate Agreements (BAA) with all cloud and third-party vendors.
+- Zero-knowledge storage of sensitive medical records using AES-256 at rest.
+
+Platforms:
+- Responsive Web portal for patients and desktop browser portal for clinic staff.
+- Native or React Native mobile applications for iOS and Android.
+
+Estimated Timeline:
+- Target delivery within 20 weeks.
